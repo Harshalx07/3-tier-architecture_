@@ -19,6 +19,7 @@ module "database" {
 }
 
 module "networking" {
-  source    = "./modules/networking" #A
-  namespace = var.namespace          #B
+  source    = "./modules/networking"
+  namespace = var.namespace
+
 }
