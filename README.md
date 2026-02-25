@@ -2017,3 +2017,4 @@ Outputs:
 db_password = <sensitive>
 lb_dns_name = "my-3-tier-architecture-1371552020.us-west-2.elb.amazonaws.com"
 # 3-tier-architecture
+# project-3-tier-architecture
