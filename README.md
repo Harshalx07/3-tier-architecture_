@@ -1,10 +1,4 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9534e8e-af93-42b6-b70f-b58eb44439dd" />
-Good.
-I’ll give you a cleaner, stronger, recruiter-ready version.
-
-Replace your README with this.
-
-
 # 🚀 3-Tier Architecture on AWS using Terraform
 
 This project provisions a production-ready 3-tier architecture on AWS using modular Terraform design.
